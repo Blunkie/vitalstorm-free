@@ -1,5 +1,4 @@
 [
-   
     {
         "projectUrl": "https://discord.gg/WTvTbSPknJ",
         "provider": "Storm",
@@ -11,7 +10,7 @@
                 "date": "2023-03-22",
                 "sha512sum": "D6F7C1B66947DA9E28CEF11B483462DB03B59A829B15350D67C85D169FB30ACBCF040271C7EC391F6BA2D97DB43B6CD87BD0716E0352F320BF4E9D9BEA0D5BBF",
                 "version": "2.2.0",
-                "url": "https://raw.githubusercontent.com/vitalflea/vitalstorm/master/chinbreakhandler-2.2.0.jar",
+                "url": "https://raw.githubusercontent.com/Vitalflea/vitalstorm-free/master/chinbreakhandler-2.2.0.jar",
                 "requires": "^1.0.0"
             }
         ]
