@@ -14,5 +14,21 @@
                 "requires": "^1.0.0"
             }
         ]
+    },
+	{
+        "projectUrl": "https://discord.gg/WTvTbSPknJ",
+        "provider": "Storm",
+        "name": "Vital Auto Login",
+        "description": "Automatically logs in specified account in config",
+        "id": "vitalautologin-plugin",
+        "releases": [
+            {
+                "date": "2023-04-16",
+                "sha512sum": "F5E50C181B2162DC4BF68C804268943F3C24AFE6C3CE1C7F031AB0C093F21ECB835F0C03C3BA2866D203DADB31DFE8554CC30E0D24AC0F56CBB6DCDA442E6DD0",
+                "version": "0.1.0",
+                "url": "https://raw.githubusercontent.com/Vitalflea/vitalstorm-free/master/vital-autologin-0.1.0.jar",
+                "requires": "^1.0.0"
+            }
+        ]
     }
 ]
